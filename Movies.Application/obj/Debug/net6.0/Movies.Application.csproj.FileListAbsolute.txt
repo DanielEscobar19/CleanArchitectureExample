@@ -1,0 +1,15 @@
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\bin\Debug\net6.0\Movies.Application.deps.json
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\bin\Debug\net6.0\Movies.Application.dll
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\bin\Debug\net6.0\Movies.Application.pdb
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\bin\Debug\net6.0\Movies.Domain.dll
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\bin\Debug\net6.0\Movies.Domain.pdb
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\obj\Debug\net6.0\Movies.Application.csproj.AssemblyReference.cache
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\obj\Debug\net6.0\Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\obj\Debug\net6.0\Movies.Application.AssemblyInfoInputs.cache
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\obj\Debug\net6.0\Movies.Application.AssemblyInfo.cs
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\obj\Debug\net6.0\Movies.Application.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\obj\Debug\net6.0\Movies.Application.csproj.CopyComplete
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\obj\Debug\net6.0\Movies.Application.dll
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\obj\Debug\net6.0\refint\Movies.Application.dll
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\obj\Debug\net6.0\Movies.Application.pdb
+C:\Users\Daniel Escobar\Desktop\Practica supervisada\CleanArchitecture\CleanArchitectureExample\Movies.Application\obj\Debug\net6.0\ref\Movies.Application.dll
