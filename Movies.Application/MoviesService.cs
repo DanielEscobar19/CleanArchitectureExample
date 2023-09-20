@@ -19,5 +19,21 @@ namespace Movies.Application
         {
             return this.MoviesRepository.GetAllMovies();
         }
+
+        public string AddMovie(string title, int minimumAge, string director, int minutesDuration)
+        {
+            Movie newMovie = new Movie{
+                Title = title,
+                MinimumAge = minimumAge,
+                Director = director,
+                MinutesDuration = minutesDuration
+            };
+            return MoviesRepository.AddMovie(newMovie);
+        }
+
+        public Movie? GetMovieById(int id)
+        {
+            return MoviesRepository.GetMovieById(id);
+        }
     }
 }

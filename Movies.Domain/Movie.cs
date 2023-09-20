@@ -4,7 +4,7 @@
     {
         public int Id { get; set; }
         public string Title { get; set; }
-        public int MinimuAge { get; set; }
+        public int MinimumAge { get; set; }
         public string Director{ get; set; }
         public int MinutesDuration { get; set; }
     }
