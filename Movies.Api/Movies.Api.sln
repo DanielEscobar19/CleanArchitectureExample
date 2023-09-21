@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movies.Domain", "Movies.Domain.csproj", "{E835FEC5-061F-4176-8F86-0B2F4A464F58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movies.Api", "Movies.Api.csproj", "{198BCA58-20C3-4A57-80A7-5F49AF34524B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movies.Domain", "..\Movies.Domain\Movies.Domain.csproj", "{E835FEC5-061F-4176-8F86-0B2F4A464F58}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movies.Application", "..\Movies.Application\Movies.Application.csproj", "{BA74BB10-E352-42CB-9BEC-54C5A93C0394}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movies.Infrastructure", "..\Movies.Infrastructure\Movies.Infrastructure.csproj", "{F2320A93-4E7E-481F-9345-EBFB8FC8C1C6}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movies.Api", "..\Movies.Api\Movies.Api.csproj", "{198BCA58-20C3-4A57-80A7-5F49AF34524B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
